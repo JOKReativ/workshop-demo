@@ -2,46 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on YAASSSSSS</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on YAASSSSSS</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 09 Jan 2025 12:36:21 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Laufen</title>
-      <link>http://localhost:1313/tags/laufen/</link>
-      <pubDate>Thu, 09 Jan 2025 12:36:21 +0100</pubDate>
-      <guid>http://localhost:1313/tags/laufen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dessert</title>
-      <link>http://localhost:1313/tags/dessert/</link>
-      <pubDate>Thu, 09 Jan 2025 12:31:42 +0100</pubDate>
-      <guid>http://localhost:1313/tags/dessert/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hauptspeise</title>
-      <link>http://localhost:1313/tags/hauptspeise/</link>
-      <pubDate>Thu, 09 Jan 2025 12:31:32 +0100</pubDate>
-      <guid>http://localhost:1313/tags/hauptspeise/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reis</title>
-      <link>http://localhost:1313/tags/reis/</link>
-      <pubDate>Thu, 09 Jan 2025 12:31:32 +0100</pubDate>
-      <guid>http://localhost:1313/tags/reis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nudeln</title>
-      <link>http://localhost:1313/tags/nudeln/</link>
-      <pubDate>Thu, 09 Jan 2025 12:16:25 +0100</pubDate>
-      <guid>http://localhost:1313/tags/nudeln/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
